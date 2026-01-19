@@ -1,0 +1,12 @@
+numpy
+pandas
+librosa
+sounddevice
+tensorflow
+scikit-learn
+xgboost
+joblib
+sentence-transformers
+gensim
+scipy
+tqdm
